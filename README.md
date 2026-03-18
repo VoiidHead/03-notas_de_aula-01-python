@@ -8,7 +8,7 @@
   1. Criar e executar o primeiro arquivo de código-fonte python
 
 ---
-## Notas de aula
+## Notas de aula [pdf](/01-Introdução.pdf)
 
 1. **Computadores digitais**
 2. Composição de um computador digital: **hardware** (fisicamente tangível) e **software** (fisicamente intangível)
