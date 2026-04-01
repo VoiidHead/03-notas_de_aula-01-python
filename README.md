@@ -27,7 +27,7 @@
 - [instalador do python](https://www.python.org/downloads/) para os computadores pessoais
 - [Microsoft Visual Studio Code](https://code.visualstudio.com/)
 
-**tarefa de hoje**
+**[tarefa de hoje](https://github.com/VoiidHead/03-notas_de_aula-01-python/blob/main/alo.py)**
 1. Abra o microsoft visual studio code
 2. Crie novo arquivo texto
 3. Digite `print("alo turma de infoweb 2026")` ou copie do bloco de código baixo
